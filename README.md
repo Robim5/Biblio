@@ -88,42 +88,32 @@ The MySQL database consists of 6 interconnected tables:
 
 ### General Forms
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/683958c1-8317-4ac5-b407-c092d5fe13ff)
-" alt="Sign In" width="300" style="margin: 10px;"/>
-  <img src="![image](https://github.com/user-attachments/assets/15f02873-8939-425b-a5b6-5243019a6499)
-" alt="Sign Up" width="300" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/683958c1-8317-4ac5-b407-c092d5fe13ff" alt="Sign In" width="300" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/15f02873-8939-425b-a5b6-5243019a6499" alt="Sign Up" width="300" style="margin: 10px;"/>
 </div>
 
 ### Customer Interface
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/1df1a7cc-c8a3-40ac-a219-930361e32fd7)
-" alt="Customer Dashboard" width="300" style="margin: 10px;"/>
-  <img src="![image](https://github.com/user-attachments/assets/efe99cd3-7cb5-4845-a656-bf28ac3c805f)
-" alt="Explore Books" width="300" style="margin: 10px;"/>
-  <img src="![image](https://github.com/user-attachments/assets/cb1aaa86-73e2-4c80-9b94-d56ce5674017)
-" alt="Requisition Book" width="300" style="margin: 10px;"/>
-  <img src="![image](https://github.com/user-attachments/assets/3f59f2c5-64a9-408a-8448-50a4d2827d33)
-" alt="Customer Profile" width="300" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/1df1a7cc-c8a3-40ac-a219-930361e32fd7" alt="Customer Dashboard" width="300" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/efe99cd3-7cb5-4845-a656-bf28ac3c805f" alt="Explore Books" width="300" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/cb1aaa86-73e2-4c80-9b94-d56ce5674017" alt="Requisition Book" width="300" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/3f59f2c5-64a9-408a-8448-50a4d2827d33" alt="Customer Profile" width="300" style="margin: 10px;"/>
 </div>
 
 ### Admin Interface
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/165a9855-c74d-45e7-be27-dd690f3a673e)
-" alt="Admin Dashboard" width="300" style="margin: 10px;"/>
-  <img src="![image](https://github.com/user-attachments/assets/83fdfc4a-3704-40d9-b972-44171cfc704f)
-" alt="Edit Book" width="300" style="margin: 10px;"/>
-  <img src="![image](https://github.com/user-attachments/assets/55f8bf69-de2e-45e1-9c70-deae454afbc2)
-" alt="Add Book" width="300" style="margin: 10px;"/>
-  <img src="![image](https://github.com/user-attachments/assets/04181820-b61f-4893-9a53-a1ae1f749c80)
-" alt="Fines Information" width="300" style="margin: 10px;"/>
-  <img src="![image](https://github.com/user-attachments/assets/2fb96029-6b92-4c76-a73b-5457cf470de5)
-" alt="Customer Information" width="300" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/165a9855-c74d-45e7-be27-dd690f3a673e" alt="Admin Dashboard" width="300" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/83fdfc4a-3704-40d9-b972-44171cfc704f" alt="Edit Book" width="300" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/55f8bf69-de2e-45e1-9c70-deae454afbc2" alt="Add Book" width="300" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/04181820-b61f-4893-9a53-a1ae1f749c80" alt="Fines Information" width="300" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/2fb96029-6b92-4c76-a73b-5457cf470de5" alt="Customer Information" width="300" style="margin: 10px;"/>
 </div>
 
 ### Data Base
 <div align="center">
-  <img src="![bd](https://github.com/user-attachments/assets/cad7edf6-4220-4929-baa4-ef546331a14d)" alt="Admin Dashboard" width="300" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/cad7edf6-4220-4929-baa4-ef546331a14d" alt="Database Schema" width="300" style="margin: 10px;"/>
 </div>
+
 
 ## How to Run
 
