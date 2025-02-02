@@ -1,0 +1,87 @@
+01/02/2025 11:33:30: O parâmetro não é válido.
+   em System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   em System.Drawing.ImageConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   em System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   em finalproject_biblio.explore.LoadImage(Int32 bookid) em E:\C# framework\finalproject_biblio\finalproject_biblio\explore.cs:line 124
+
+01/02/2025 11:33:33: O parâmetro não é válido.
+   em System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   em System.Drawing.ImageConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   em System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   em finalproject_biblio.explore.LoadImage(Int32 bookid) em E:\C# framework\finalproject_biblio\finalproject_biblio\explore.cs:line 124
+
+01/02/2025 11:33:35: O parâmetro não é válido.
+   em System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   em System.Drawing.ImageConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   em System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   em finalproject_biblio.explore.LoadImage(Int32 bookid) em E:\C# framework\finalproject_biblio\finalproject_biblio\explore.cs:line 124
+
+01/02/2025 11:33:37: O parâmetro não é válido.
+   em System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   em System.Drawing.ImageConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   em System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   em finalproject_biblio.explore.LoadImage(Int32 bookid) em E:\C# framework\finalproject_biblio\finalproject_biblio\explore.cs:line 124
+
+01/02/2025 11:33:40: O parâmetro não é válido.
+   em System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   em System.Drawing.ImageConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   em System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   em finalproject_biblio.explore.LoadImage(Int32 bookid) em E:\C# framework\finalproject_biblio\finalproject_biblio\explore.cs:line 124
+
+01/02/2025 11:34:05: O parâmetro não é válido.
+   em System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   em System.Drawing.ImageConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   em System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   em finalproject_biblio.explore.LoadImage(Int32 bookid) em E:\C# framework\finalproject_biblio\finalproject_biblio\explore.cs:line 124
+
+01/02/2025 11:34:32: O parâmetro não é válido.
+   em System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   em System.Drawing.ImageConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   em System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   em finalproject_biblio.explore.LoadImage(Int32 bookid) em E:\C# framework\finalproject_biblio\finalproject_biblio\explore.cs:line 124
+
+01/02/2025 11:42:43: O parâmetro não é válido.
+   em System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   em System.Drawing.Image.FromStream(Stream stream)
+   em finalproject_biblio.explore.LoadImage(Int32 bookid) em E:\C# framework\finalproject_biblio\finalproject_biblio\explore.cs:line 125
+
+01/02/2025 11:42:46: O parâmetro não é válido.
+   em System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   em System.Drawing.Image.FromStream(Stream stream)
+   em finalproject_biblio.explore.LoadImage(Int32 bookid) em E:\C# framework\finalproject_biblio\finalproject_biblio\explore.cs:line 125
+
+01/02/2025 11:42:49: O parâmetro não é válido.
+   em System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   em System.Drawing.Image.FromStream(Stream stream)
+   em finalproject_biblio.explore.LoadImage(Int32 bookid) em E:\C# framework\finalproject_biblio\finalproject_biblio\explore.cs:line 125
+
+01/02/2025 11:50:18: O parâmetro não é válido.
+   em System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   em System.Drawing.Image.FromStream(Stream stream)
+   em finalproject_biblio.explore.LoadImage(Int32 bookid) em E:\C# framework\finalproject_biblio\finalproject_biblio\explore.cs:line 125
+
+01/02/2025 11:50:20: O parâmetro não é válido.
+   em System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   em System.Drawing.Image.FromStream(Stream stream)
+   em finalproject_biblio.explore.LoadImage(Int32 bookid) em E:\C# framework\finalproject_biblio\finalproject_biblio\explore.cs:line 125
+
+01/02/2025 11:53:46: O parâmetro não é válido.
+   em System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   em System.Drawing.Image.FromStream(Stream stream)
+   em finalproject_biblio.explore.LoadImage(Int32 bookid) em E:\C# framework\finalproject_biblio\finalproject_biblio\explore.cs:line 126
+
+01/02/2025 11:53:49: O parâmetro não é válido.
+   em System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   em System.Drawing.Image.FromStream(Stream stream)
+   em finalproject_biblio.explore.LoadImage(Int32 bookid) em E:\C# framework\finalproject_biblio\finalproject_biblio\explore.cs:line 126
+
+01/02/2025 11:53:51: O parâmetro não é válido.
+   em System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   em System.Drawing.Image.FromStream(Stream stream)
+   em finalproject_biblio.explore.LoadImage(Int32 bookid) em E:\C# framework\finalproject_biblio\finalproject_biblio\explore.cs:line 126
+
+01/02/2025 11:53:53: O parâmetro não é válido.
+   em System.Drawing.Image.FromStream(Stream stream, Boolean useEmbeddedColorManagement, Boolean validateImageData)
+   em System.Drawing.Image.FromStream(Stream stream)
+   em finalproject_biblio.explore.LoadImage(Int32 bookid) em E:\C# framework\finalproject_biblio\finalproject_biblio\explore.cs:line 126
+

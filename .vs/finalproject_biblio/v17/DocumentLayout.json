@@ -1,0 +1,401 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C# framework\\finalproject_biblio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|e:\\c# framework\\finalproject_biblio\\finalproject_biblio\\admfines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|solutionrelative:finalproject_biblio\\admfines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\admadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|solutionrelative:finalproject_biblio\\admadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\changes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|solutionrelative:finalproject_biblio\\changes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\guideadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|solutionrelative:finalproject_biblio\\guideadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\guideadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|solutionrelative:finalproject_biblio\\guideadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|solutionrelative:finalproject_biblio\\perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\buyreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|solutionrelative:finalproject_biblio\\buyreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\explore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|solutionrelative:finalproject_biblio\\explore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\guideuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|solutionrelative:finalproject_biblio\\guideuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|solutionrelative:finalproject_biblio\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|solutionrelative:finalproject_biblio\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\changes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|solutionrelative:finalproject_biblio\\changes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\explore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|solutionrelative:finalproject_biblio\\explore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\admsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|solutionrelative:finalproject_biblio\\admsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\admsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|solutionrelative:finalproject_biblio\\admsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\admfines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|solutionrelative:finalproject_biblio\\admfines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\admadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|solutionrelative:finalproject_biblio\\admadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|solutionrelative:finalproject_biblio\\perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\buyreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|solutionrelative:finalproject_biblio\\buyreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\guideuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|solutionrelative:finalproject_biblio\\guideuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|solutionrelative:finalproject_biblio\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|solutionrelative:finalproject_biblio\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\datacone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D05BBC-9637-4744-A751-49B8224DA858}|finalproject_biblio\\finalproject_biblio.csproj|solutionrelative:finalproject_biblio\\datacone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 330,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "signup.cs [Design]",
+              "DocumentMoniker": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\signup.cs",
+              "RelativeDocumentMoniker": "finalproject_biblio\\signup.cs",
+              "ToolTip": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\signup.cs [Design]",
+              "RelativeToolTip": "finalproject_biblio\\signup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:00:18.786Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "signup.cs",
+              "DocumentMoniker": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\signup.cs",
+              "RelativeDocumentMoniker": "finalproject_biblio\\signup.cs",
+              "ToolTip": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\signup.cs",
+              "RelativeToolTip": "finalproject_biblio\\signup.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAYwAUBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:29:33.703Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "signin.cs [Design]",
+              "DocumentMoniker": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\signin.cs",
+              "RelativeDocumentMoniker": "finalproject_biblio\\signin.cs",
+              "ToolTip": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\signin.cs [Design]",
+              "RelativeToolTip": "finalproject_biblio\\signin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:00:31.907Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "signin.cs",
+              "DocumentMoniker": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\signin.cs",
+              "RelativeDocumentMoniker": "finalproject_biblio\\signin.cs",
+              "ToolTip": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\signin.cs",
+              "RelativeToolTip": "finalproject_biblio\\signin.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:48:05.323Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "guideuser.cs [Design]",
+              "DocumentMoniker": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\guideuser.cs",
+              "RelativeDocumentMoniker": "finalproject_biblio\\guideuser.cs",
+              "ToolTip": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\guideuser.cs [Design]",
+              "RelativeToolTip": "finalproject_biblio\\guideuser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:02:00.338Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "guideuser.cs",
+              "DocumentMoniker": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\guideuser.cs",
+              "RelativeDocumentMoniker": "finalproject_biblio\\guideuser.cs",
+              "ToolTip": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\guideuser.cs",
+              "RelativeToolTip": "finalproject_biblio\\guideuser.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:13:53.384Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "explore.cs [Design]",
+              "DocumentMoniker": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\explore.cs",
+              "RelativeDocumentMoniker": "finalproject_biblio\\explore.cs",
+              "ToolTip": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\explore.cs [Design]",
+              "RelativeToolTip": "finalproject_biblio\\explore.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:02:28.235Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "explore.cs",
+              "DocumentMoniker": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\explore.cs",
+              "RelativeDocumentMoniker": "finalproject_biblio\\explore.cs",
+              "ToolTip": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\explore.cs",
+              "RelativeToolTip": "finalproject_biblio\\explore.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAYwPYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:30:23.379Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "buyreq.cs [Design]",
+              "DocumentMoniker": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\buyreq.cs",
+              "RelativeDocumentMoniker": "finalproject_biblio\\buyreq.cs",
+              "ToolTip": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\buyreq.cs [Design]",
+              "RelativeToolTip": "finalproject_biblio\\buyreq.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:04:22.004Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "buyreq.cs",
+              "DocumentMoniker": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\buyreq.cs",
+              "RelativeDocumentMoniker": "finalproject_biblio\\buyreq.cs",
+              "ToolTip": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\buyreq.cs",
+              "RelativeToolTip": "finalproject_biblio\\buyreq.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAewKYAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:32:11.898Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "perfil.cs [Design]",
+              "DocumentMoniker": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\perfil.cs",
+              "RelativeDocumentMoniker": "finalproject_biblio\\perfil.cs",
+              "ToolTip": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\perfil.cs [Design]",
+              "RelativeToolTip": "finalproject_biblio\\perfil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:04:05.469Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "perfil.cs",
+              "DocumentMoniker": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\perfil.cs",
+              "RelativeDocumentMoniker": "finalproject_biblio\\perfil.cs",
+              "ToolTip": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\perfil.cs",
+              "RelativeToolTip": "finalproject_biblio\\perfil.cs",
+              "ViewState": "AgIAAGkBAAAAAAAAAAAYwJMBAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:35:50.047Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "guideadm.cs [Design]",
+              "DocumentMoniker": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\guideadm.cs",
+              "RelativeDocumentMoniker": "finalproject_biblio\\guideadm.cs",
+              "ToolTip": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\guideadm.cs [Design]",
+              "RelativeToolTip": "finalproject_biblio\\guideadm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:02:17.61Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "guideadm.cs",
+              "DocumentMoniker": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\guideadm.cs",
+              "RelativeDocumentMoniker": "finalproject_biblio\\guideadm.cs",
+              "ToolTip": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\guideadm.cs",
+              "RelativeToolTip": "finalproject_biblio\\guideadm.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAjwCIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:39:53.551Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "admadd.cs [Design]",
+              "DocumentMoniker": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\admadd.cs",
+              "RelativeDocumentMoniker": "finalproject_biblio\\admadd.cs",
+              "ToolTip": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\admadd.cs [Design]",
+              "RelativeToolTip": "finalproject_biblio\\admadd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:02:52.956Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "admadd.cs",
+              "DocumentMoniker": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\admadd.cs",
+              "RelativeDocumentMoniker": "finalproject_biblio\\admadd.cs",
+              "ToolTip": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\admadd.cs",
+              "RelativeToolTip": "finalproject_biblio\\admadd.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwGkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:41:12.344Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "admfines.cs [Design]",
+              "DocumentMoniker": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\admfines.cs",
+              "RelativeDocumentMoniker": "finalproject_biblio\\admfines.cs",
+              "ToolTip": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\admfines.cs [Design]",
+              "RelativeToolTip": "finalproject_biblio\\admfines.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:03:27.26Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "admfines.cs",
+              "DocumentMoniker": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\admfines.cs",
+              "RelativeDocumentMoniker": "finalproject_biblio\\admfines.cs",
+              "ToolTip": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\admfines.cs",
+              "RelativeToolTip": "finalproject_biblio\\admfines.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAQwJsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:44:28.905Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "admsearch.cs [Design]",
+              "DocumentMoniker": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\admsearch.cs",
+              "RelativeDocumentMoniker": "finalproject_biblio\\admsearch.cs",
+              "ToolTip": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\admsearch.cs [Design]",
+              "RelativeToolTip": "finalproject_biblio\\admsearch.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:03:39.398Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "admsearch.cs",
+              "DocumentMoniker": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\admsearch.cs",
+              "RelativeDocumentMoniker": "finalproject_biblio\\admsearch.cs",
+              "ToolTip": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\admsearch.cs",
+              "RelativeToolTip": "finalproject_biblio\\admsearch.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAYwLoAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:46:48.061Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "changes.cs [Design]",
+              "DocumentMoniker": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\changes.cs",
+              "RelativeDocumentMoniker": "finalproject_biblio\\changes.cs",
+              "ToolTip": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\changes.cs [Design]",
+              "RelativeToolTip": "finalproject_biblio\\changes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:15:41.794Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "changes.cs",
+              "DocumentMoniker": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\changes.cs",
+              "RelativeDocumentMoniker": "finalproject_biblio\\changes.cs",
+              "ToolTip": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\changes.cs",
+              "RelativeToolTip": "finalproject_biblio\\changes.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAuwIIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:38:03.442Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DataCone.cs",
+              "DocumentMoniker": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\DataCone.cs",
+              "RelativeDocumentMoniker": "finalproject_biblio\\DataCone.cs",
+              "ToolTip": "E:\\C# framework\\finalproject_biblio\\finalproject_biblio\\DataCone.cs",
+              "RelativeToolTip": "finalproject_biblio\\DataCone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:58:12.633Z",
+              "IsPinned": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
